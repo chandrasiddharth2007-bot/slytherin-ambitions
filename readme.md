@@ -2,49 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Money Mule Detection using Behavioral Analytics</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    .team-info {
-      font-weight: bold;
-      margin-bottom: 20px;
-    }
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 20px 0;
-    }
-    table, th, td {
-      border: 1px solid #ccc;
-    }
-    th, td {
-      padding: 10px;
-      text-align: center;
-    }
-    th {
-      background-color: #eaeaea;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 5px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #eee;
-      padding: 10px;
-      border-radius: 4px;
-      overflow-x: auto;
-    }
-  </style>
 </head>
 <body>
 
